@@ -1,0 +1,15 @@
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.deps.json
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.runtimeconfig.json
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.dll
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.pdb
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.csproj.AssemblyReference.cache
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfoInputs.cache
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfo.cs
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.csproj.CoreCompileInputs.cache
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.dll
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/refint/LINQ.dll
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.pdb
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.genruntimeconfig.cache
+/Users/rakinbrown/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/ref/LINQ.dll
